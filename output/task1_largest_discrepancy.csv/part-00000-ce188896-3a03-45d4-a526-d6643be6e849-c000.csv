@@ -1,0 +1,11 @@
+FlightNum,CarrierName,Origin,Destination,scheduled_travel_time,actual_travel_time,discrepancy,CarrierCode
+1003,American Airlines,LAX,DEN,900.0,754.0,146.0,AA
+2147,Air France,DFW,MIA,780.0,930.0,150.0,AF
+7080,British Airways,SFO,ATL,840.0,989.0,149.0,BA
+1920,Delta Airlines,ATL,DEN,900.0,1049.0,149.0,DL
+8537,Emirates,SEA,DEN,180.0,34.0,146.0,EK
+3255,Lufthansa,JFK,MIA,780.0,632.0,148.0,LH
+4002,Qantas,MIA,SEA,420.0,569.0,149.0,QF
+5825,Singapore Airlines,DFW,JFK,540.0,394.0,146.0,SQ
+9586,Southwest Airlines,SFO,ATL,300.0,446.0,146.0,SW
+9348,United Airlines,SEA,ORD,780.0,638.0,142.0,UA
